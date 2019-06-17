@@ -1,4 +1,4 @@
-### Curriculum Vitae, Xuan ZHANG@Tsinghua University  
+### Xuan ZHANG@Tsinghua University  
 ### Table of Contents
 - [Education](#education)
 - [Journal Papers](#journal-papers)
