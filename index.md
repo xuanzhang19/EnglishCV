@@ -1,4 +1,14 @@
 ### Xuan ZHANG@Tsinghua University  
+
+![](http://wx4.sinaimg.cn/small/007B55rcly1g2yl41em2gj30sg0sgkf1.jpg)
+**Xuan ZHANG**, Ph.D.  
+Department of Energy and Power Engineering, Tsinghua University  
+No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
+Tel: +86-15201619077  
+Email: [xuanzhang66@gmail.com](mailto:xuanzhang66@gmail.com)  
+Website: <https://www.xuanzhang.online>  
+Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
+
 ### Table of Contents
 - [Education](#education)
 - [Journal Papers](#journal-papers)
@@ -10,16 +20,6 @@
 - [Concurrent Appointments & Other Activities](#concurrent-appointments-and-other-activities)
 - [Honors & Awards](#honors-and-awards)
 - [Computer Expertise](#computer-expertise)
-
-![](http://wx4.sinaimg.cn/small/007B55rcly1g2yl41em2gj30sg0sgkf1.jpg)
-
-**Xuan ZHANG**, Ph.D.  
-Department of Energy and Power Engineering, Tsinghua University  
-No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
-Tel: +86-15201619077  
-Email: [xuanzhang66@gmail.com](mailto:xuanzhang66@gmail.com)  
-Website: <https://www.xuanzhang.online>  
-Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
 
 ### Education
 * ***Sep, 2014 ~ Present***  
