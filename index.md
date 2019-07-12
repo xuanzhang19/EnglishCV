@@ -36,7 +36,7 @@ Advisor: Prof. Weizheng Zhang.
 [Back to Top ↑](#table-of-contents)
 
 ### Research Interest
-- Droplet freezing and condensation, Supercooled water, .
+- Droplet freezing and condensation, Supercooled water.
 - Droplet dynamics, Wettability, Surface and interface science.
 - Icing/Frosting formation and prevention.
 - Micro-/Nano-scale heat and mass transfer, Microfluid.
