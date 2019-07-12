@@ -12,13 +12,13 @@ Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
 
 ### Table of Contents
 - [Education](#education)
+- [Research Interest](#research-interest)
+- [Academic Research Experience](#academic-research-experience)
+- [Concurrent Appointments & Other Activities](#concurrent-appointments-and-other-activities)
 - [Journal Papers](#journal-papers)
 - [Conference Papers](#conference-papers)
 - [Papers under Review & to Submit](#papers-under-review-and-to-submit)
 - [Patents](#patents)
-- [Research Interest](#research-interest)
-- [Academic Research Experience](#academic-research-experience)
-- [Concurrent Appointments & Other Activities](#concurrent-appointments-and-other-activities)
 - [Honors & Awards](#honors-and-awards)
 - [Computer Expertise](#computer-expertise)
 
@@ -33,46 +33,6 @@ Advisor: Prof. Xiaomin Wu.
 Beijing Institute of Technology (BIT), Beijing, China.  
 Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling.  
 Advisor: Prof. Weizheng Zhang.  
-[Back to Top ↑](#table-of-contents)
-
-### Journal Papers
-1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040).
-2. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. Exp. Therm. Fluid Sci. 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).
-3. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. Int. J. Heat Mass Transfer 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021).
-4. ***X. Zhang***, X.M. Wu. Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling. Heat Transfer Eng. 39, 642-653 (2018), DOI: [10.1080/01457632.2017.1325670](https://dx.doi.org/10.1080/01457632.2017.1325670).
-5. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Modelling of sessile water droplet shape evolution during freezing with consideration of supercooling effect. Appl. Therm. Eng. 125, 644-651 (2017), DOI: [10.1016/j.applthermaleng.2017.07.017](https://dx.doi.org/10.1016/j.applthermaleng.2017.07.017).
-6. ***X. Zhang***, X.M. Wu, J.C. Min. Freezing and melting of a sessile water droplet on a horizontal cold plate. Exp. Therm. Fluid Sci. 88, 1-7 (2017), DOI: [10.1016/j.expthermflusci.2017.05.009](https://dx.doi.org/10.1016/j.expthermflusci.2017.05.009).
-7. ***X. Zhang***, X.M. Wu, J.C. Min. Aircraft icing model considering both rime ice property variability and runback water effect. Int. J. Heat Mass Transfer 104, 510-516 (2017), DOI: [10.1016/j.ijheatmasstransfer.2016.08.086](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.08.086).
-8. ***X. Zhang***, J.C. Min, X.M. Wu. Model for aircraft icing with consideration of property-variable rime ice. Int. J. Heat Mass Transfer 97, 185-190 (2016), DOI: [10.1016/j.ijheatmasstransfer.2016.01.065](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.01.065).
-9. F.Q. Chu, Z.P. Yuan, ***X. Zhang***, X.M. Wu. Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location. Int. J. Heat Mass Transfer 121, 315-320 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.01.027](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027).
-10. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. Chinese J. Chem. Eng. 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).
-11. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. Appl. Phys. Lett. 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).
-12. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
-13. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
-14. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. Journal of Engineering Thermophysics 37(07), 1527-1531 (2016). (In Chinese)  
-[Back to Top ↑](#table-of-contents)
-
-### Conference Papers
-1. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Impact of a supercooled water droplet on different temperature and contact angle cold plates, Proceedings of 16th International Heat Transfer Conference, Beijing, China, August 2018, IHTC16-23531.
-2. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Shape variation of a sessile droplet during freezing. Proceedings of 6th Asian Symposium on Computational Heat Transfer and Fluid Flow, Chennai, India, December 2017, ASCHT 2017-107.
-3. ***X. Zhang***, J.C. Min, X.M. Wu. Effects of airflow parameters on aircraft icing characteristics. Proceedings of 1st Asian Conference on Thermal Sciences, Jeju, Korea, March 2017, ACTS-P00285.
-4. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min, Numerical simulations of freezing process of a sessile supercooled water droplet using Eulerian method. Proceedings of 9th International Symposium on Heat Transfer, Beijing, China, August 2016, ISHT9-K0370.
-5. X. Liu, ***X. Zhang***, J.C. Min. Simulation of droplet impact on a spherical surface. APS March Meeting 2019 , Boston, US, March 2019, G70.00399.
-6. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, Experiment on droplet impacting on a spherical surface. Proceedings of 15th International Conference on Flow Dynamics, Sendai, Japan, Novermber 2018, OS18-89.
-7. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, Spreading and oscillation on different wettability surfaces at low weber number. Proceedings of 15th International Conference on Flow Dynamics, Sendai, Japan, Novermber 2018, OS18-88.
-8. F.Q. Chu, X.M. Wu, ***X. Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon. Proceedings of 9th International Symposium on Heat Transfer, Beijing, China, August 2016, ISHT9-A0244.  
-[Back to Top ↑](#table-of-contents)
-
-### Papers under Review and to Submit
-1. X. Liu, ***X. Zhang***, J.C. Min. Spreading of droplet impacting on various wettability surfaces at a Weber number close to zero. Experimental Thermal and Fluid Science. (Under Review)
-2. F.Q. Chu, S.K. Li, ***X. Zhang***, H.C. Jin, J. Zhang, X.M. Wu, D.S. Wen, Bubble formation in freezing droplets during icing and condensation frosting, Physical Review Letters. (Under Review)
-3. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Droplet impacting and post-impact oscillation processes on different wettability surfaces. Applied Surface Science. (To Submit)
-4. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Effect of droplet initial shape on the maximum spreading during impacting process, Journal of Colloid and Interface Science. (To Submit)
-5. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Adhesion and rebound of supercooled droplets impacting on a horizontal cold surface, International Journal of Heat and Mass Transfer. (To Submit)  
-[Back to Top ↑](#table-of-contents)
-
-### Patents
-1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0. Issued October 2014.  
 [Back to Top ↑](#table-of-contents)
 
 ### Research Interest
@@ -125,12 +85,52 @@ Responsibilities: I was invited to review a manuscript and provide my suggestion
 Responsibilities: preparing and organizing all the videos and documents needed for the course establishment, answering questions for students online, organizing and maintaining and the course website.
 
 * ***Sep, 2016 ~ Present***  
-**Secretary of Defense on Dissertation for Master&#39;s Degree**, Tsinghua University.  
+**Secretary of Defense on Dissertation for Master Degree**, Tsinghua University.  
  Responsibilities: answering the questions from the degree applicants, preparing and organizing the documents needed for the defense, recording the communication between committee and applicant in the defense, keeping the defense order.  
 
 * ***Sep, 2012 ~ Jul, 2014***  
 **Class Vice President**, Beijing Institute of Technology.  
 Responsibilities: managing the affairs in the class, organizing the daily activities for classmates, improving the communications between teachers and classmates.  
+[Back to Top ↑](#table-of-contents)
+
+### Journal Papers
+1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040).
+2. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. Exp. Therm. Fluid Sci. 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).
+3. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. Int. J. Heat Mass Transfer 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021).
+4. ***X. Zhang***, X.M. Wu. Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling. Heat Transfer Eng. 39, 642-653 (2018), DOI: [10.1080/01457632.2017.1325670](https://dx.doi.org/10.1080/01457632.2017.1325670).
+5. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Modelling of sessile water droplet shape evolution during freezing with consideration of supercooling effect. Appl. Therm. Eng. 125, 644-651 (2017), DOI: [10.1016/j.applthermaleng.2017.07.017](https://dx.doi.org/10.1016/j.applthermaleng.2017.07.017).
+6. ***X. Zhang***, X.M. Wu, J.C. Min. Freezing and melting of a sessile water droplet on a horizontal cold plate. Exp. Therm. Fluid Sci. 88, 1-7 (2017), DOI: [10.1016/j.expthermflusci.2017.05.009](https://dx.doi.org/10.1016/j.expthermflusci.2017.05.009).
+7. ***X. Zhang***, X.M. Wu, J.C. Min. Aircraft icing model considering both rime ice property variability and runback water effect. Int. J. Heat Mass Transfer 104, 510-516 (2017), DOI: [10.1016/j.ijheatmasstransfer.2016.08.086](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.08.086).
+8. ***X. Zhang***, J.C. Min, X.M. Wu. Model for aircraft icing with consideration of property-variable rime ice. Int. J. Heat Mass Transfer 97, 185-190 (2016), DOI: [10.1016/j.ijheatmasstransfer.2016.01.065](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.01.065).
+9. F.Q. Chu, Z.P. Yuan, ***X. Zhang***, X.M. Wu. Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location. Int. J. Heat Mass Transfer 121, 315-320 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.01.027](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027).
+10. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. Chinese J. Chem. Eng. 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).
+11. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. Appl. Phys. Lett. 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).
+12. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
+13. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
+14. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. Journal of Engineering Thermophysics 37(07), 1527-1531 (2016). (In Chinese)  
+[Back to Top ↑](#table-of-contents)
+
+### Conference Papers
+1. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Impact of a supercooled water droplet on different temperature and contact angle cold plates, Proceedings of 16th International Heat Transfer Conference, Beijing, China, August 2018, IHTC16-23531.
+2. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Shape variation of a sessile droplet during freezing. Proceedings of 6th Asian Symposium on Computational Heat Transfer and Fluid Flow, Chennai, India, December 2017, ASCHT 2017-107.
+3. ***X. Zhang***, J.C. Min, X.M. Wu. Effects of airflow parameters on aircraft icing characteristics. Proceedings of 1st Asian Conference on Thermal Sciences, Jeju, Korea, March 2017, ACTS-P00285.
+4. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min, Numerical simulations of freezing process of a sessile supercooled water droplet using Eulerian method. Proceedings of 9th International Symposium on Heat Transfer, Beijing, China, August 2016, ISHT9-K0370.
+5. X. Liu, ***X. Zhang***, J.C. Min. Simulation of droplet impact on a spherical surface. APS March Meeting 2019 , Boston, US, March 2019, G70.00399.
+6. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, Experiment on droplet impacting on a spherical surface. Proceedings of 15th International Conference on Flow Dynamics, Sendai, Japan, Novermber 2018, OS18-89.
+7. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, Spreading and oscillation on different wettability surfaces at low weber number. Proceedings of 15th International Conference on Flow Dynamics, Sendai, Japan, Novermber 2018, OS18-88.
+8. F.Q. Chu, X.M. Wu, ***X. Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon. Proceedings of 9th International Symposium on Heat Transfer, Beijing, China, August 2016, ISHT9-A0244.  
+[Back to Top ↑](#table-of-contents)
+
+### Papers under Review and to Submit
+1. X. Liu, ***X. Zhang***, J.C. Min. Spreading of droplet impacting on various wettability surfaces at a Weber number close to zero. Experimental Thermal and Fluid Science. (Under Review)
+2. F.Q. Chu, S.K. Li, ***X. Zhang***, H.C. Jin, J. Zhang, X.M. Wu, D.S. Wen, Bubble formation in freezing droplets during icing and condensation frosting, Physical Review Letters. (Under Review)
+3. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Droplet impacting and post-impact oscillation processes on different wettability surfaces. Applied Surface Science. (To Submit)
+4. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Effect of droplet initial shape on the maximum spreading during impacting process, Journal of Colloid and Interface Science. (To Submit)
+5. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Adhesion and rebound of supercooled droplets impacting on a horizontal cold surface, International Journal of Heat and Mass Transfer. (To Submit)  
+[Back to Top ↑](#table-of-contents)
+
+### Patents
+1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0. Issued October 2014.  
 [Back to Top ↑](#table-of-contents)
 
 ### Honors and Awards
