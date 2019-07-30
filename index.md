@@ -6,7 +6,7 @@
 Department of Energy and Power Engineering, Tsinghua University  
 No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
 Tel: +86-15201619077  
-Email: [xuanzhang66@gmail.com](mailto:xuanzhang66@gmail.com)  
+Email: [xuanzhang66@126.com](mailto:xuanzhang66@126.com)  
 Website: <https://www.xuanzhang.online>  
 Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
 
