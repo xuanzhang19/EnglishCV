@@ -80,7 +80,7 @@ Advisor: Prof. Weizheng Zhang.
 **Referee of Journal of Enhanced Heat Transfer** (Begell House).  
 Responsibilities: I was invited to review a manuscript and provide my suggestions on publication decision to editor.
 
-- **Mar, 2015 ~ Jul, 2019**
+- **Mar, 2015 ~ Jul, 2019**  
 **Teaching Assistant**, Engineering Thermodynamics MOOC (Selected as National Excellent Online Open Course of Ministry of Education), Tsinghua University.  
 Responsibilities: preparing and organizing all the videos and documents needed for the course establishment, answering questions for students online, organizing and maintaining and the course website.
 
@@ -88,13 +88,13 @@ Responsibilities: preparing and organizing all the videos and documents needed f
 **Secretary of Defense on Dissertation for Master Degree**, Tsinghua University.  
  Responsibilities: answering the questions from the degree applicants, preparing and organizing the documents needed for the defense, recording the communication between committee and applicant in the defense, keeping the defense order.  
 
-- **Sep, 2012 ~ Jul, 2019**  
+- **Sep, 2012 ~ Jul, 2014**  
 **Class Vice President**, Beijing Institute of Technology.  
 Responsibilities: managing the affairs in the class, organizing the daily activities for classmates, improving the communications between teachers and classmates.  
 [Back to Top ↑](#table-of-contents)
 
 ### Journal Papers
-1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040).
+1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040) [[PDF](https://www.jianguoyun.com/p/DTmTTlgQ7sPZBxiN5usB)].
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. Exp. Therm. Fluid Sci. 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. Int. J. Heat Mass Transfer 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021). 
 1. ***X. Zhang***, X.M. Wu. Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling. Heat Transfer Eng. 39, 642-653 (2018), DOI: [10.1080/01457632.2017.1325670](https://dx.doi.org/10.1080/01457632.2017.1325670).
@@ -105,8 +105,8 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 1. F.Q. Chu, Z.P. Yuan, ***X. Zhang***, X.M. Wu. Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location. Int. J. Heat Mass Transfer 121, 315-320 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.01.027](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027).
 1. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. Chinese J. Chem. Eng. 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).
 1. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. Appl. Phys. Lett. 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).
-1. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
-1. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
+1. ***X. Zhang***, X.M. Wu*, J.C. Min*. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
+1. X. Liu, ***X. Zhang***, J.C. Min*. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
 1. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. Journal of Engineering Thermophysics 37(07), 1527-1531 (2016). (In Chinese)  
 [Back to Top ↑](#table-of-contents)
 
