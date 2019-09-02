@@ -65,7 +65,7 @@ Advisor: Prof. Weizheng Zhang.
 **School Enterprise Cooperation Project**, Simulation Study on Frosting on the Fi Surfaces, Daikin Industries, Ltd.
     - Simulating the frosting process on cold surface using Fluent Eulerian model and UDF file, investigating the effects of airflow parameters and surface conditions.
 
-- **Oct, 2013 ~ Jul, 2014**
+- **Oct, 2013 ~ Jul, 2014**  
 **Undergraduate Thesis**, Study on Gas Resistance in Two-Phase Flow Boiling, Beijing Institute of Technology.
     - Setting up an experimental system to investigate the flow boiling characteristics including the pressure drop, pressure fluctuation and bubble behaviors.    
     - Simulating the pressure drop using Fluent Mixture model, developing a theoretical model to predict the bubble disappearance.
@@ -75,7 +75,7 @@ Advisor: Prof. Weizheng Zhang.
 **Undergraduate Innovation Training Program**, Beijing Institute of Technology.  
 [Back to Top ↑](#table-of-contents)
 
-### Concurrent Appointments and Other Activities
+### Concurrent Appointments and Other Activities  
 - **Nov, 2018**  
 **Referee of Journal of Enhanced Heat Transfer** (Begell House).  
 Responsibilities: I was invited to review a manuscript and provide my suggestions on publication decision to editor.
