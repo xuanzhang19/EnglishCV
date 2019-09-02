@@ -94,7 +94,7 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 [Back to Top ↑](#table-of-contents)
 
 ### Journal Papers
-1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040) [[PDF](https://www.jianguoyun.com/p/DTmTTlgQ7sPZBxiN5usB)].
+1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040) [[PDF]()].
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. Exp. Therm. Fluid Sci. 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. Int. J. Heat Mass Transfer 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021). 
 1. ***X. Zhang***, X.M. Wu. Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling. Heat Transfer Eng. 39, 642-653 (2018), DOI: [10.1080/01457632.2017.1325670](https://dx.doi.org/10.1080/01457632.2017.1325670).
