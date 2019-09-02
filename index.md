@@ -2,7 +2,7 @@
 
 ![](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
 
-**Xuan ZHANG**, Ph.D.  
+**Xuan ZHANG（张旋）**, Ph.D.  
 Department of Energy and Power Engineering, Tsinghua University  
 No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
 Tel: +86-15201619077  
