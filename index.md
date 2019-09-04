@@ -163,5 +163,5 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 - Others: LabVIEW, MS Office, Origin, Visio, Endnote.  
 [Back to Top ↑](#table-of-contents)  
 
-<p align="center"> <b> Thanks for your visiting! </b> </p>  
+<p align="center"> <b> <i> Thanks for your visiting! </i> </b> </p>  
 <p align="right"> 2019/09/02 Updated. </p>  
