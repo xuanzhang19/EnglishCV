@@ -45,7 +45,7 @@ Advisor: Prof. Weizheng Zhang.
 
 ### Academic Research Experience
 - **Jan, 2015 ~ Jul, 2019**  
-**National Key Basic Research Program of China**, Research on Key Basic Problems of Aircraft Icing Safety and Its Protection (No. 2015CB755800), Ministry of Science and Technology of P.R.China.
+  **National Key Basic Research Program of China**, Research on Key Basic Problems of Aircraft Icing Safety and Its Protection (No. 2015CB755800), Ministry of Science and Technology of P.R.China.
     - Establishing an experimental system to investigate the droplet nucleation/ freezing/impacting characteristics and to explore the effects of environmental conditions, surface wettability, droplet size, etc.
     - Developing a theoretical model to predict the freezing behaviors of a supercooled water droplet including the formation of final pointy tip.
     - Simulating the evolution of freezing front based on theoretical model and Fluent VOF model, proposing a correlation to estimate the freezing time.
@@ -54,19 +54,19 @@ Advisor: Prof. Weizheng Zhang.
     - Developing an aircraft icing model considering both rime ice property variability and runback water effect, exploring the effects of airflow parameters.  
 
 - **Jan, 2015 ~ Jul, 2019**  
-**National Natural Science Foundation Program of China**, Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation (No. 51476084).
+  **National Natural Science Foundation Program of China**, Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation (No. 51476084).
     - Developing methods to fabricate different wettabilities surfaces, studying the droplet behaviors during condensation.  
 
 - **Jun, 2016 ~ Aug, 2016**  
-**Enterprise Practice Project**, Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor, Guangdong Meizhi Compressor Co., Ltd.  
+  **Enterprise Practice Project**, Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor, Guangdong Meizhi Compressor Co., Ltd.  
     - Establishing a simulation model to predict the bubble motion in the edge-channel of rotor compressor motor as well as the oil return rate, providing the optimized size of the edge-channel.
 
 - **Sep, 2014 ~ Jun, 2015**  
-**School Enterprise Cooperation Project**, Simulation Study on Frosting on the Fi Surfaces, Daikin Industries, Ltd.
+  **School Enterprise Cooperation Project**, Simulation Study on Frosting on the Fi Surfaces, Daikin Industries, Ltd.
     - Simulating the frosting process on cold surface using Fluent Eulerian model and UDF file, investigating the effects of airflow parameters and surface conditions.
 
 - **Oct, 2013 ~ Jul, 2014**  
-**Undergraduate Thesis**, Study on Gas Resistance in Two-Phase Flow Boiling, Beijing Institute of Technology.
+  **Undergraduate Thesis**, Study on Gas Resistance in Two-Phase Flow Boiling, Beijing Institute of Technology.
     - Setting up an experimental system to investigate the flow boiling characteristics including the pressure drop, pressure fluctuation and bubble behaviors.    
     - Simulating the pressure drop using Fluent Mixture model, developing a theoretical model to predict the bubble disappearance.
     - Analyzing the time-frequency characteristics of pressure fluctuation in flow boiling using signal processing methods (FFT, PSD, etc.).
@@ -75,7 +75,7 @@ Advisor: Prof. Weizheng Zhang.
 **Undergraduate Innovation Training Program**, Beijing Institute of Technology.  
 [Back to Top ↑](#table-of-contents)
 
-### Concurrent Appointments and Other Activities  
+### Concurrent Appointments and Other Activities
 - **Nov, 2018**  
 **Referee of Journal of Enhanced Heat Transfer** (Begell House).  
 Responsibilities: I was invited to review a manuscript and provide my suggestions on publication decision to editor.
@@ -94,7 +94,7 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 [Back to Top ↑](#table-of-contents)
 
 ### Journal Papers
-1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040) [[PDF]()].
+1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. Appl. Therm. Eng. 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040) [[PDF](https://www.jianguoyun.com/p/DTmTTlgQ7sPZBxiN5usB)].
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. Exp. Therm. Fluid Sci. 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. Int. J. Heat Mass Transfer 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021). 
 1. ***X. Zhang***, X.M. Wu. Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling. Heat Transfer Eng. 39, 642-653 (2018), DOI: [10.1080/01457632.2017.1325670](https://dx.doi.org/10.1080/01457632.2017.1325670).
@@ -105,8 +105,8 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 1. F.Q. Chu, Z.P. Yuan, ***X. Zhang***, X.M. Wu. Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location. Int. J. Heat Mass Transfer 121, 315-320 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.01.027](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027).
 1. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. Chinese J. Chem. Eng. 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).
 1. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. Appl. Phys. Lett. 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).
-1. ***X. Zhang***, X.M. Wu*, J.C. Min*. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
-1. X. Liu, ***X. Zhang***, J.C. Min*. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
+1. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. Journal of Engineering Thermophysics 39(01), 159-164 (2018). (In Chinese)
+1. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. Journal of Engineering Thermophysics, 40(1) 2019. (In Chinese)
 1. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. Journal of Engineering Thermophysics 37(07), 1527-1531 (2016). (In Chinese)  
 [Back to Top ↑](#table-of-contents)
 
@@ -163,5 +163,5 @@ Responsibilities: managing the affairs in the class, organizing the daily activi
 - Others: LabVIEW, MS Office, Origin, Visio, Endnote.  
 [Back to Top ↑](#table-of-contents)  
 
-***Thanks for your visiting!***  
-Updated at 2019/09/02.
+<center> ***Thanks for your visiting!*** </center>  
+<p align="right"> Updated at 2019/09/02. </p>  
