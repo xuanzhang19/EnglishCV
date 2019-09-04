@@ -43,14 +43,6 @@ Advisor: Prof. Weizheng Zhang.
 - Phase change energy storage, Phase change materials (PCM).  
 [Back to Top ↑](#table-of-contents)
 
-### Academic Research Experience
-1. ***Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet* (2019.09-2021.09)** (No. 20190005), International Postdoctoral Exchange Fellowship Program, Office of China Postdoctral Council.  
-1. ***Research on Key Basic Problems of Aircraft Icing Safety and Its Protection* (2015.01-2019.10)** (No. 2015CB755800), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China.  
-1. ***Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation* (2015.01-2018.12)** (No. 51476084), National Natural Science Foundation Program of China.
-1. ***Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor* (2016.06-2016.08)**, Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd.  
-1. ***Simulation Study on Frosting on the Fin Surfaces* (2014.09-2015.07)**, School Enterprise Cooperation Project, Daikin Industries, Ltd.  
-[Back to Top ↑](#table-of-contents)
-
 ### Journal Papers
 1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. *Appl. Therm. Eng.* 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040).  
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. *Exp. Therm. Fluid Sci.* 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).  
@@ -85,6 +77,14 @@ Advisor: Prof. Weizheng Zhang.
 
 ### Patents
 1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0. Issued Oct. 2014.  
+[Back to Top ↑](#table-of-contents)
+
+### Academic Research Experience
+1. ***Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet* (2019.09-2021.09)** (No. 20190005), International Postdoctoral Exchange Fellowship Program, Office of China Postdoctral Council.  
+1. ***Research on Key Basic Problems of Aircraft Icing Safety and Its Protection* (2015.01-2019.10)** (No. 2015CB755800), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China.  
+1. ***Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation* (2015.01-2018.12)** (No. 51476084), National Natural Science Foundation Program of China.
+1. ***Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor* (2016.06-2016.08)**, Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd.  
+1. ***Simulation Study on Frosting on the Fin Surfaces* (2014.09-2015.07)**, School Enterprise Cooperation Project, Daikin Industries, Ltd.  
 [Back to Top ↑](#table-of-contents)
 
 ### Professional Activities and Services
