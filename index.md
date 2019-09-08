@@ -1,8 +1,8 @@
 ### Xuan ZHANG@Tsinghua University  
 
 ***  
-![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
-
+![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)
+　[[English](https://www.xuanzhang.online)]　　　[[中文版](http://8ac127f0.wiz03.com/share/s/2aMivM3cqAXi29jzTe37TBfU2U65mv1qpkda26WwYy2E0P6x)]  
 **Xuan ZHANG（张旋）**, Ph.D.  
 Department of Energy and Power Engineering, Tsinghua University  
 No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
@@ -23,16 +23,12 @@ Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
 - [Other Expertise](#other-expertise)
 
 ### Education
-* **Sep, 2014 ~ Jul, 2019**  
-**Ph.D.** in Power Engineering and Engineering Thermophysics. (Ranking 5/50)  
+- **Ph.D.** in Power Engineering and Engineering Thermophysics (**2014.09-2019.07**).  
 Tsinghua University (THU), Beijing, China.  
-Thesis title: Research on Freezing and Impact Processes of Supercooled Water Droplet and Their Coupling Characteristics.  
-Advisor: Prof. Xiaomin Wu.  
-* **Sep, 2010 ~ Jul, 2014**  
-**B.E.** in Thermal Energy and Power Engineering. (Ranking 1/57)  
+Thesis title: Research on Freezing and Impact Processes of Supercooled Water Droplet and Their Coupling Characteristics. (Advisor: Prof. Xiaomin Wu.)  
+- **B.E.** in Thermal Energy and Power Engineering (**2010.09-2014.07**).  
 Beijing Institute of Technology (BIT), Beijing, China.  
-Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling.  
-Advisor: Prof. Weizheng Zhang.  
+Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling. (Advisor: Prof. Weizheng Zhang.)  
 [Back to Top ↑](#table-of-contents)
 
 ### Research Interest
@@ -60,7 +56,7 @@ Advisor: Prof. Weizheng Zhang.
 1. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. *Chinese J. Chem. Eng.* 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).  
 1. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. *Appl. Phys. Lett.* 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).  
 1. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. *J. Eng. Thermophys.* 39(01), 159-164 (2018). (In Chinese)
-1. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. *J. Eng. Thermophys.*, 40(1) 2019. (In Chinese)
+1. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. *J. Eng. Thermophys.* 40(1) 2019. (In Chinese)
 1. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. *J. Eng. Thermophys.* 37(07), 1527-1531 (2016). (In Chinese)  
 [Back to Top ↑](#table-of-contents)
 
@@ -76,40 +72,39 @@ Advisor: Prof. Weizheng Zhang.
 [Back to Top ↑](#table-of-contents)
 
 ### Patents
-1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0. Issued Oct. 2014.  
+1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0, Issued Oct. 2014.  
 [Back to Top ↑](#table-of-contents)
 
 ### Academic Research Experience
-1. ***Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet* (2019.09-2021.09)** (No. 20190005), International Postdoctoral Exchange Fellowship Program, Office of China Postdoctral Council.  
-1. ***Research on Key Basic Problems of Aircraft Icing Safety and Its Protection* (2015.01-2019.10)** (No. 2015CB755800), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China.  
-1. ***Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation* (2015.01-2018.12)** (No. 51476084), National Natural Science Foundation Program of China.
-1. ***Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor* (2016.06-2016.08)**, Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd.  
-1. ***Simulation Study on Frosting on the Fin Surfaces* (2014.09-2015.07)**, School Enterprise Cooperation Project, Daikin Industries, Ltd.  
+1. **Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet (2019.09-2021.09)** (No. 20190005), International Postdoctoral Exchange Fellowship Program, Office of China Postdoctral Council.  
+1. **Research on Key Basic Problems of Aircraft Icing Safety and Its Protection (2015.01-2019.10)** (No. 2015CB755800), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China.  
+1. **Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation (2015.01-2018.12)** (No. 51476084), National Natural Science Foundation Program of China.
+1. ***Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor (2016.06-2016.08)**, Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd.  
+1. **Simulation Study on Frosting on the Fin Surfaces (2014.09-2015.07)**, School Enterprise Cooperation Project, Daikin Industries, Ltd.  
 [Back to Top ↑](#table-of-contents)
 
 ### Professional Activities and Services
-- Referee of **Journal of Enhanced Heat Transfer** (Begell House).  
+- **Referee** of **Journal of Enhanced Heat Transfer** (Begell House).  
 - **Teaching Assistant (2015.03-2019.07)**, Engineering Thermodynamics MOOC (Selected as **National Excellent Online Open Course**, Ministry of Education of P.R.China), Tsinghua University.  
 -  **Secretary of Defense on Dissertation for Master Degree (2016.09-2019.07)**, Tsinghua University.  
 [Back to Top ↑](#table-of-contents)
 
 ### Honors and Awards
-1. **Wu Zhonghua Outstanding Graduate Award** (ten postgraduates all over China), *Chinese Society of Engineering Thermophysics* (2019).
-1. **Excellent Doctoral Thesis Award**, *Tsinghua University* (2019).
+1. **Wu Zhonghua Award for Outstanding Graduate Student** (ten students all over China), *Chinese Society of Engineering Thermophysics* (2019).  
+1. **Excellent Doctoral Thesis Award**, *Tsinghua University* (2019).  
 1. **National Scholarship for PhD Student** (top 0.2% student all over China), *Ministry of Education of P.R.China* (2018).  
 1. **National Scholarship for Undergraduate Student** (top 0.2% student all over China), *Ministry of Education of P.R.China* (2012, 2011).  
-1. **First Rank Award, 3rd National Undergraduate Engineering Training Integration Ability Competition**, *Ministry of Education of P.R.China* (2013).  
-1. **Second Rank Award, 13rd "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition**, *Ministry of Education of P.R.China & China Association for Science and Technology* (2013).  
-1. **Third Rank Award, 3rd National Undergraduate Mathematical Competition**, *Chinese Mathematical Society* (2011).  
-1. **Outstanding Graduate Award** (top 5% student in Beijing), Beijing Municipal Education Commission (2019).  
-1. **Outstanding Undergraduate Award** (top 5% student in Beijing), Beijing Municipal Education Commission (2014)  
-1. First Rank Award, 2nd Capital Undergraduate Engineering Training Integration Ability Competition, Beijing Municipal Education Commission (2013).  
-1. First Rank Award, 7th "Challenge Cup" Capital Undergraduate Curricular Academic Science and Technology Works Competition, Beijing Municipal Education Commission & Beijing Municipal Science and Technology Commission (2013).  
-1. Second Rank Award, 1st Capital Undergraduate Robot Competition, Beijing Municipal Education Commission (2012).  
-1. Second Rank Award, 28th National (Part Regions) Undergraduate Physics Competition, Beijing Physical Society (2011).  
+1. **Outstanding Graduating Student Award** (top 5% student in Beijing), Beijing Municipal Education Commission (2019, 2014).  
+1. **First Rank Award for National Undergraduate Engineering Training Integration Ability Competition**, *Ministry of Education of P.R.China* (2013).  
+1. **Second Rank Award for "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition**, *Ministry of Education of P.R.China & China Association for Science and Technology* (2013).  
+1. **Third Rank Award for National Undergraduate Mathematical Competition**, *Chinese Mathematical Society* (2011).  
+1. First Rank Award for Capital Undergraduate Engineering Training Integration Ability Competition, Beijing Municipal Education Commission (2013).  
+1. First Rank Award for "Challenge Cup" Capital Undergraduate Curricular Academic Science and Technology Works Competition, Beijing Municipal Education Commission & Beijing Municipal Science and Technology Commission (2013).  
+1. Second Rank Award for Capital Undergraduate Robot Competition, Beijing Municipal Education Commission (2012).  
+1. Second Rank Award for National (Part Regions) Undergraduate Physics Competition, Beijing Physical Society (2011).  
 1. **First Prize Scholarship for Excellent Student**, Tsinghua University (2015~2017).  
 1. Tongfang Scholarship for Student Work, Tsinghua University (2016~2018).  
-1. **Xu Teli (First president of BIT) Scholarship** (one of 20 students awarded over 26,000 students in BIT), Beijing Institute of Technology (2013).  
+1. **Xu Teli (First president of BIT) Scholarship** (20 students awarded over 26,000 students in BIT), Beijing Institute of Technology (2013).  
 1. Professional Star Award, Beijing Institute of Technology (2013).  
 1. Science and Technology Competition Scholarship, Beijing Institute of Technology (2013).  
 1. Pacemaker to Excellent Student (top 1% student in BIT), Beijing Institute of Technology (2011~2013).  
