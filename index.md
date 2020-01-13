@@ -24,7 +24,7 @@ Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>
 - [Other Expertise](#other-expertise)  
 
 ### Working Experience
-- **2019.09-Present, Postdoctoral Research Fellow***, Nanyang Technological University (NTU), Singapore.  
+- **2019.09-Present, Postdoctoral Research Fellow**, Nanyang Technological University (NTU), Singapore.  
 [Back to Top ↑](#table-of-contents)  
 
 ### Education
