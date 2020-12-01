@@ -1,7 +1,7 @@
 ### Xuan ZHANG@Tsinghua University  
 
 ***  
-![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
+![Profile](https://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
 　[[English](https://www.xuanzhang.online)]　　　[[中文版](https://www.xuanzhang.online/ChineseCV/)]  
 **Xuan ZHANG（张旋）**, Ph.D.  
 Department of Energy and Power Engineering, Tsinghua University  
