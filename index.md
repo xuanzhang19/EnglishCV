@@ -1,6 +1,4 @@
-### Xuan ZHANG@Tsinghua University  
-
-***  
+  
 ![Profile](https://github.com/xuanzhang19/xuanzhang19.github.io/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
 　[[English](https://www.xuanzhang.online)]　　　[[中文版](https://www.xuanzhang.online/ChineseCV/)]  
 **Xuan ZHANG（张旋）**, Ph.D.  
