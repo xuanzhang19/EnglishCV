@@ -109,7 +109,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 
 ### Professional Activities and Services
 1. **Referee**: International Communications of Heat and Mass Transfer, International Journal of Thermal Science, International Journal of Heat and Fluid Flow (Elsevier); Physics of Fluids (AIP Publishing); Fluids (MDPI); Journal of Enhanced Heat Transfer (Begell House)
-2. **Teaching Assistant** (2015.04–2019.07), Engineering Thermodynamics MOOC (Selected as 2018 National Excellent Online Open Course of Ministry of Education), Tsinghua University
+2. **Teaching Assistant** (2015.04–2019.07), Engineering Thermodynamics MOOC (Selected as **2018 National Excellent Online Open Course of Ministry of Education**), Tsinghua University
 3. **Secretary of Defense** on Dissertation for Master Degree (2016.09–2019.07), Tsinghua University.   
 [Back to Top ↑](#table-of-contents)  
 
