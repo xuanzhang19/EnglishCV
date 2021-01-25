@@ -102,8 +102,8 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 3. **Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process** (No. 2019069, 2020.01–2021.08), NAMIC (Singapore) & ASTM. (Collaborator)
 4. **Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces** (No. MOE2016-T2-1-114, 2017.01–2019.12), Tier 2 Academic Research Fund, Ministry of Education, Singapore. (Collaborator)
 5. **Research on Key Basic Problems of Aircraft Icing Safety and Its Protection** (No. 2015CB755800, 2015.01–2019.08), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China. (Collaborator)
-6. **Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and Its Regulation** (No. 51476084, 2015.01–2018.12), National Natural Science Foundation Program of China.
-7. **Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor** (2016.06–2016.08), Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd (Midea Group). (Collaborator)
+6. **Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and Its Regulation** (No. 51476084, 2015.01–2018.12), National Natural Science Foundation Program of China. (Collaborator)
+7. **Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor** (2016.06–2016.08), Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd (Midea Group).
 8. **Simulation Study on Frosting on the Fin Surfaces** (2014.09–2015.01), School Enterprise Cooperation Project, Daikin Industries, Ltd.    
 [Back to Top ↑](#table-of-contents)  
 
