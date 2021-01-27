@@ -7,8 +7,12 @@ School of Mechanical and Aerospace Engineering,
 Nanyang Technological University,  
 50 Nanyang Avenue, Singapore 639798  
 Tel: +86-15201619077  
-Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
-[[Google](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] [[CV](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
+Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; 
+[xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
+[[ORCID](https://orcid.org/0000-0002-4999-7361)] 
+[[Google Scholar](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)] 
+[[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] 
+[[CV](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]    
 
 ### Table of Contents
 - [Working Experience](#working-experience)
