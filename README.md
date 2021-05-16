@@ -129,7 +129,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 1. **Referee**
    - *Elsevier*: International Journal of Heat and Mass Transfer, International Communications of Heat and Mass Transfer, International Journal of Thermal Science, International Journal of Heat and Fluid Flow
    - *AIP Publishing*: Physics of Fluids
-   - *­Springer Nature*: Acta Mechanica
+   - *Springer Nature*: Acta Mechanica
    - *Begell House*: Journal of Enhanced Heat Transfer
    - *MDPI*: Processes, Fluids
 2. **Teaching Assistant** (2015.04–2019.07), Engineering Thermodynamics MOOC (Selected as **2018 National Outstanding Online Open Course of Ministry of Education of P.R. China**), *Tsinghua University*.
