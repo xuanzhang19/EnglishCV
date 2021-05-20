@@ -29,17 +29,17 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 - [Other Expertise](#other-expertise)
 
 ### Working Experience
-- **2019.09-Present, Postdoctoral Research Fellow**, School of Mechanical and Aerospace Engineering,  
+- **2019.09–Present, Postdoctoral Research Fellow**, School of Mechanical and Aerospace Engineering,  
   Nanyang Technological University (NTU), Singapore  
   (Co-advisor: Prof. Charles Yang Chun, Associate Prof. Tuan Anh Tran)  
 [[TOC](#table-of-contents)]  
 
 ### Education
-- **2014.09-2019.07, Ph.D.** in Power Engineering and Engineering Thermophysics (Ranking 5/50),   
+- **2014.09–2019.07, Ph.D.** in Power Engineering and Engineering Thermophysics (Ranking 5/50),   
   Department of Energy and Power Engineering, Tsinghua University (THU), Beijing, China  
   Thesis title: Research on Freezing and Impacting Processes of Supercooled Water Droplets and Their Coupling Characteristics  
   (Advisor: Advisor: Prof. Xiaomin Wu, Associate Prof. Jingchun Min)  
-- **2010.09-2014.07, B.E.** in Thermal Energy and Power Engineering (Ranking 1/57),   
+- **2010.09–2014.07, B.E.** in Thermal Energy and Power Engineering (Ranking 1/57),   
   School of Mechanical Engineering, Beijing Institute of Technology (BIT), Beijing, China  
   Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling  
   (Advisor: Prof. Weizheng Zhang)  
@@ -70,13 +70,13 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 15. Zhifeng Hu, ***Xuan Zhang***, Sihang Gao, Zhiping Yuan, Yukai Lin, Fuqiang Chu\*, Xiaomin Wu\*, Axial spreading of droplet impact on ridged superhydrophobic surfaces, *Journal of Colloid and Interface Science* 599, 130-139 (2021). [[Link](https://doi.org/10.1016/j.jcis.2021.04.078)] [[PDF](https://www.jianguoyun.com/p/DW_o-iEQpsj_BxjI-vMD)]
 16. Zhifeng Hu, Xiaomin Wu\*, Fuqiang Chu\*, ***Xuan Zhang***, Zhiping Yuan, Off-centered droplet impact on single-ridge superhydrophobic surfaces, *Experimental Thermal and Fluid Science* 120, 110245 (2021). [[Link](https://doi.org/10.1016/j.expthermflusci.2020.110245)] [[PDF](https://www.jianguoyun.com/p/DWSECJAQpsj_Bxif69cD)]
 17. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Spreading of droplets impacting different wettable surfaces at a Weber number close to zero, *Chemical Engineering Science* 207, 495-503 (2019). [[Link](https://doi.org/10.1016/j.ces.2019.06.058)] [[PDF](https://www.jianguoyun.com/p/DdqK3JsQpsj_BxjQ-dcD)]
-18. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Maximum spreading of droplets impacting spherical surfaces, *Physics of Fluids*, 31 (9), 092102 (2019). (Selected as **Editor’s Pick**) [[Link](https://doi.org/10.1063/1.5117278)] [[PDF](https://www.jianguoyun.com/p/DUlUjSkQpsj_Bxii69cD)]
+18. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Maximum spreading of droplets impacting spherical surfaces, *Physics of Fluids* 31 (9), 092102 (2019). (Selected as **Editor’s Pick**) [[Link](https://doi.org/10.1063/1.5117278)] [[PDF](https://www.jianguoyun.com/p/DUlUjSkQpsj_Bxii69cD)]
 19. Fuqiang Chu, Sihang Gao, ***Xuan Zhang***, Xiaomin Wu, Dongsheng Wen\*, Droplet re-icing characteristics on a superhydrophobic surface, *Applied Physics Letters* 115 (7), 73703 (2019). [[Link](https://doi.org/10.1063/1.5109283)] [[PDF](https://www.jianguoyun.com/p/DUKlb9IQpsj_Bxi16tcD)]
 20. Fuqiang Chu, ***Xuan Zhang***, Shaokang Li, Haichuan Jin, Jun Zhang, Xiaomin Wu, Dongsheng Wen\*, Bubble formation in freezing droplets, *Physical Review Fluids* 4 (7), 71601 (2019). [[Link](https://doi.org/10.1103/PhysRevFluids.4.071601)] [[PDF](https://www.jianguoyun.com/p/DUN9i4IQpsj_Bxi--dcD)]
-21. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, Chinese Journal of Chemical Engineering 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
+21. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, *Chinese Journal of Chemical Engineering* 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
 22. Fuqiang Chu, Zhiping Yuan, ***Xuan Zhang***, Xiaomin Wu\*, Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location, *International Journal of Heat and Mass Transfer* 121, 315-320 (2018). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2018.01.027)] [[PDF](https://www.jianguoyun.com/p/DaXCQ3UQpsj_BxjX-dcD)]
 23. Fuqiang Chu, Xiaomin Wu\*, Bei Zhu, ***Xuan Zhang***, Self-propelled droplet behavior during condensation on superhydrophobic surfaces, *Applied Physics Letters* 108, 194103 (2016). [[Link](https://doi.org/10.1063/1.4949010)] [[PDF](https://www.jianguoyun.com/p/DX2YcFoQpsj_Bxjc-dcD)]  
-\--\--\--  
+\--\--\--    
 24. ***Xuan Zhang***, Xin Liu, Xiaomin Wu\*, Jingchun Min, Experimental and modeling research on the impact and freezing of a supercooled water droplet, *Journal of Engineering Thermophysics* 41 (02), 402-410 (2020). (In Chinese) [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202002021)] [[PDF](https://www.jianguoyun.com/p/DZVPUcgQpsj_BxjD_NcD)]
 25. ***Xuan Zhang***, Xiaomin Wu\*, Jingchun Min, Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall, *Journal of Engineering Thermophysics* 39 (01), 159-164 (2018). (In Chinese) [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GCRB201801027)] [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)] 
 26. Zhifeng Hu, Fuqiang Chu, ***Xuan Zhang***, Zhiping Yuan, Xiaomin Wu\*, Off-centered droplet impact on the superhydrophobic surface with a single ridge: Morphological evolution and contact time. *Journal of Engineering Thermophysics* 41 (09), 2266-2271 (2020). (In Chinese) [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202009025)] [[PDF](https://www.jianguoyun.com/p/DdNqhcwQpsj_BxjW_NcD)]
@@ -97,7 +97,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 10. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Xiaomin Wu, Experiment on droplet impacting on a spherical surface, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-89.
 11. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Droplet spreading and oscillation on different wettability surfaces at low weber number, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-88.
 12. Fuqiang Chu, Xiaomin Wu\*, ***Xuan Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon, *9th International Symposium on Heat Transfer*, Beijing, China, August 2016, ISHT9-A0244.  
-\--\--\--  
+\--\--\--    
 13. ***Xuan Zhang***, Xiaomin Wu\*, Jingchun Min, Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall, *2016 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Beijing, China, October 2016, No. 163721. (In Chinese)
 14. ***Xuan Zhang***, Jingchun Min, Xiaomin Wu\*, Effect of rime ice layer on aircraft icing, *2015 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Dalian, China, October 2015, No. 153646. (In Chinese)
 15. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Impacting-freezing characteristics of supercooled water droplets on superhydrophobic spheres under low Weber numbers, *2020 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Guangzhou, China, November 2020, No. 203319. (In Chinese)
@@ -115,7 +115,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[TOC](#table-of-contents)]  
 
 ### Academic Research Experience
-1. **International Postdoctoral Exchange Fellowship Program**, Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet (No. 20190005, 2019.09–2021.09), Ministry of Human Resources and Social Security of P.R. China & The Office of China Postdoctoral Council. (PI)
+1. **International Postdoctoral Exchange Fellowship Program**, Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet (No. 20190005, 2019.09–2021.09), *Ministry of Human Resources and Social Security of P.R. China & The Office of China Postdoctoral Council*. (PI)
 2. **Tier 2 Academic Research Fund**, Mechanistic Prediction of Heat Transfer Enhancement on Nanostructured Surfaces (No. MOE2018-T2-2-113, 2019.05–2022.04), *Ministry of Education, Singapore*. (Collaborator)
 3. School Enterprise Cooperation Project, Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process (No. 2019069, 2020.01–2021.08), *National Additive Manufacturing Innovation Cluster (NAMIC, Singapore) & ASTM International*. (Collaborator)
 4. **Tier 2 Academic Research Fund**, Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces (No. MOE2016-T2-1-114, 2017.01–2019.12), *Ministry of Education, Singapore*. (Collaborator)
@@ -139,7 +139,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 ### Honors and Awards
 1. **Star Reviewer for Physics of Fluids** (2020), *AIP Publishing*.
 2. **Wu Zhonghua Award for Outstanding Postgraduate Student** (10 graduate students each year all over China) (2019), *Chinese Society of Engineering Thermophysics*.
-3. **Outstanding Doctoral Thesis Award** (2019), Tsinghua University.
+3. **Outstanding Doctoral Thesis Award** (2019), *Tsinghua University*.
 4. **International Postdoctoral Exchange Fellowship Program** (2019), *Ministry of Human Resources and Social Security of P.R. China & The Office of China Postdoctoral Council*.
 5. **Postdoctoral Supporting Program** (2019), *Tsinghua University*.
 6. **National Scholarship for Graduate Student** (Top 0.2% graduate students) (2018) & National Scholarship for Undergraduate Student (Top 0.2% undergraduate students) (2012, 2011), *Ministry of Education of P.R. China*.
@@ -167,9 +167,9 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[TOC](#table-of-contents)]  
 
 ### Other Expertise  
-- CAE softwares: AutoCAD, ProE, Solidworks, SketchUp
-- CFD softwares: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL
-- Programming tools: Matlab, C/C++, Python, Fortran, Maple, Mathematic
+- CAE softwares: AutoCAD, ProE, Solidworks, SketchUp, etc.  
+- CFD softwares: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL, etc.  
+- Programming tools: Matlab, C/C++, Python, Fortran, Maple, Mathematic, etc.  
 - Others: LabVIEW, MS Office, Origin, Visio, Endnote, etc.
 - Others: ImageJ, Photoshop, Corel VideoStudio, Vegas, Ilustrator, etc.  
 [[TOC](#table-of-contents)]  
