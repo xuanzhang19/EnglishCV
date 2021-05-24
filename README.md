@@ -31,7 +31,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 ### Working Experience
 - **2019.09–Present, Postdoctoral Research Fellow**, School of Mechanical and Aerospace Engineering,  
   Nanyang Technological University (NTU), Singapore  
-  (Co-advisor: Prof. Charles Yang Chun, Associate Prof. Tuan Anh Tran)  
+  (Co-advisor: Prof. Charles Yang Chun, Associate Prof. Tuan Tran)  
 [[TOC](#table-of-contents)]  
 
 ### Education
