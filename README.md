@@ -40,7 +40,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
   Department of Energy and Power Engineering, Tsinghua University (THU), Beijing, China  
   Thesis title: Research on Freezing and Impacting Processes of Supercooled Water Droplets and Their Coupling Characteristics  
   (Advisor: Advisor: Prof. Xiaomin Wu, Associate Prof. Jingchun Min)  
-- **2010.09–2014.07, B.E.** in Thermal Energy and Power Engineering (Ranking 1/57),   
+- **2010.09–2014.07, B.E.** in Department of Thermal Energy and Power Engineering (Ranking 1/57),   
   School of Mechanical Engineering, Beijing Institute of Technology (BIT), Beijing, China  
   Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling  
   (Advisor: Prof. Weizheng Zhang)  
@@ -97,14 +97,15 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 9.  Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Simulation of droplet impact on a spherical surface, *APS March Meeting 2019, Boston*, US, March 2019, G70.00399.
 10. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Xiaomin Wu, Experiment on droplet impacting on a spherical surface, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-89.
 11. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Droplet spreading and oscillation on different wettability surfaces at low weber number, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-88.
-12. Fuqiang Chu, Xiaomin Wu\*, **<u>Xuan Zhang</u>**, A theoretical model for the self-propelled droplet jumping phenomenon, *9th International Symposium on Heat Transfer*, Beijing, China, August 2016, ISHT9-A0244.  
-\--\--\--    
-13. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min, Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall, *2016 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Beijing, China, October 2016, No. 163721. (In Chinese)
-14. **<u>Xuan Zhang</u>**, Jingchun Min, Xiaomin Wu\*, Effect of rime ice layer on aircraft icing, *2015 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Dalian, China, October 2015, No. 153646. (In Chinese)
-15. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Impacting-freezing characteristics of supercooled water droplets on superhydrophobic spheres under low Weber numbers, *2020 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Guangzhou, China, November 2020, No. 203319. (In Chinese)
-16. Siyu Ding, **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Droplet impact dynamics on a single micropillar, *2020 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Guangzhou, China, November 2020, No. 203455. (In Chinese)
-17. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Modeling and analysis of the shape variation of sessile water droplet during freezing, *2017 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Suzhou, China, October 2017, No. 173508. (In Chinese)
-18. Xiaomin Wu\*, **<u>Xuan Zhang</u>**, Ran Zhao, Yu Zhu, Heat transfer characteristics of R32 flowing boiling in horizontal mini channels based on two-phase flow patterns, *2015 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Dalian, China, October 2015, No. 153198. (In Chinese)  
+12. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Modelling and experimental investigation of the shape change of a sessile water droplet during freezing, *16th International Heat Transfer Conference*, Beijing, China, August 2018, IHTC16-24001.
+13. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Freezing simulation of static supercooled water droplet on a cold surface, *1st Asian Conference on Thermal Sciences*, Jeju, Korea, March 2017, ACTS-P00209.
+14. Fuqiang Chu, Xiaomin Wu\*, **<u>Xuan Zhang</u>**, A theoretical model for the self-propelled droplet jumping phenomenon, *9th International Symposium on Heat Transfer*, Beijing, China, August 2016, ISHT9-A0244.
+15. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min, Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall, *2016 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Beijing, China, October 2016, No. 163721. (In Chinese)
+16. **<u>Xuan Zhang</u>**, Jingchun Min, Xiaomin Wu\*, Effect of rime ice layer on aircraft icing, *2015 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Dalian, China, October 2015, No. 153646. (In Chinese)
+17. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Impacting-freezing characteristics of supercooled water droplets on superhydrophobic spheres under low Weber numbers, *2020 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Guangzhou, China, November 2020, No. 203319. (In Chinese)
+18. Siyu Ding, **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Droplet impact dynamics on a single micropillar, *2020 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Guangzhou, China, November 2020, No. 203455. (In Chinese)
+19. Xin Liu, **<u>Xuan Zhang</u>**, Jingchun Min\*, Modeling and analysis of the shape variation of sessile water droplet during freezing, *2017 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Suzhou, China, October 2017, No. 173508. (In Chinese)
+20. Xiaomin Wu\*, **<u>Xuan Zhang</u>**, Ran Zhao, Yu Zhu, Heat transfer characteristics of R32 flowing boiling in horizontal mini channels based on two-phase flow patterns, *2015 Heat and Mass Transfer Conference of Chinese Society of Engineering Thermophysics*, Dalian, China, October 2015, No. 153198. (In Chinese)  
 [[TOC](#table-of-contents)]  
 
 ### Patents
@@ -176,4 +177,4 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[TOC](#table-of-contents)]  
 
 <p align="center"> <b> <i> Thanks for your visiting ! </i> </b> </p>  
-<p align="right"> Updated on 2021-05-01 </p>  
+<p align="right"> Updated on 2021-06-01 </p>  
