@@ -1,5 +1,5 @@
   
-![Profile](https://github.com/xuanzhang19/xuanzhang19.github.io/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
+![Profile](https://github.com/xuanzhang19/EnglishCV/raw/master/Xuan%20ZHANG_Sea200x200.jpg)
 　[[English](https://www.xuanzhang.online)]　　　[[中文](https://www.xuanzhang.online/ChineseCV)]  
 
 Dr. **Xuan ZHANG（张旋）** [[CV](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
