@@ -1,5 +1,5 @@
  ![Profile](https://github.com/xuanzhang19/EnglishCV/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
-　　[[English](https://cv.xuanzhang.online)]　　　[[中文](https://cv-chs.xuanzhang.online)]  
+　　[[English](https://cv.xuanzhang.online)]　　[[中文](https://cv-chs.xuanzhang.online)]  
 
 Dr. **Xuan ZHANG（张旋）** [[CV](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
 School of Mechanical and Aerospace Engineering,  
