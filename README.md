@@ -3,7 +3,7 @@
 
 如果被命名为index.md，会优先于README.md文件显示出来，因此也可以用于展示。
 
-<a href=https://github.com/xuanzhang19/EnglishCV/blob/master/abc.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/xuanzhang19/EnglishCV/blob/master/abc.pdf" target="_blank">PDF. </a>
 
 # TestCV
 - 如果github网址绑定了自定义域名，访问自定义网址时，优先显示index.md文件；  
