@@ -111,7 +111,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[TOC](#table-of-contents)]  
 
 ### Patents
-1. **<u>Xuan Zhang</u>**, Shuqi Ma, Song Jin, Dengxuan Xie, Tie Fu, Kai Zhou, Xiaoying Wang, Spatial crank rocking rod mechanism capable of accurately adjusting swinging angle and direction, China, CN203906693U, 2014-10-29. [[Link](https://patents.google.com/patent/CN203906693U)]
+1. **<u>Xuan Zhang</u>**, Shuqi Ma, Song Jin, Dengxuan Xie, Tie Fu, Kai Zhou, Xiaoying Wang, Spatial crank rocking rod mechanism capable of accurately adjusting swinging angle and direction, China, CN203906693U, 2014-10-29. [[Link](https://patents.google.com/patent/CN203906693U)]  
 [[TOC](#table-of-contents)]  
 
 ### Books and Chapters
