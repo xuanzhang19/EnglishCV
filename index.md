@@ -1,7 +1,7 @@
 ![Profile](https://s1.ax1x.com/2022/04/23/LfSBjA.jpg)  
-　　[[English](https://en.xuanzhang.online)]　　[[中文](https://zh.xuanzhang.online)]  
+&emsp;&emsp;[[English](https://en.xuanzhang.online)]&emsp;&emsp;[[中文](https://zh.xuanzhang.online)]  
 
-Dr. **Xuan ZHANG（张旋）**, Assoc. Prof.　[[**Official Homepage**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**CV**](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
+Dr. **Xuan ZHANG（张旋）**, Assoc. Prof.&emsp;[[**Official Homepage**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**CV**](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
 Department of Energy and Power Engineering,  
 School of Mechanical Engineering, Beijing Institute of Technology  
 No. 5, Zhongguancun South Street, Haidian District, Beijing 100081, China  
@@ -14,8 +14,8 @@ Email: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotm
 [[**ResearchGate**](https://www.researchgate.net/profile/Xuan-Zhang-25)]  
 
 ### **Personal Profile**  
-&nbsp;&nbsp;&nbsp;&nbsp;Dr. **Xuan ZHANG** is an Associate Professor in the Department of Energy and Power Engineering, School of Mechanical Engineering, Beijing Institute of Technology. He received his B.S. and Ph.D. degrees from Beijing Institute of Technology and Tsinghua University in 2014 and 2019, and worked at Tsinghua University and Nanyang Technological University as a Postdoctoral Researcher before joining Beijing Institute of Technology in 2022.   
-&nbsp;&nbsp;&nbsp;&nbsp;Dr. ZHANG focuses on the coupling processes of heat/mass and flow, especially phase change problems (e.g., icing/frosting, boiling/evaporation/condensation). He has published/co-authored 33 SCI/EI journal papers (being first/corresponding authors of 18 papers, as of March 2022), 2 books/chapters, and served as editors and reviewers for numerous academic journals. He has also been granted International Postdoctoral Exchange Fellowship Program, and awarded Xu Teli Scholarship (Beijing Institute of Technology), Outstanding Doctoral Thesis (Tsinghua University), and Wu Zhonghua Outstanding Graduate Student (Chinese Society of Engineering Thermophysics).  
+&emsp;Dr. **Xuan ZHANG** is an Associate Professor in the Department of Energy and Power Engineering, School of Mechanical Engineering, Beijing Institute of Technology. He received his B.S. and Ph.D. degrees from Beijing Institute of Technology and Tsinghua University in 2014 and 2019, and worked at Tsinghua University and Nanyang Technological University as a Postdoctoral Researcher before joining Beijing Institute of Technology in 2022.   
+&emsp;Dr. ZHANG focuses on the coupling processes of heat/mass and flow, especially phase change problems (e.g., icing/frosting, boiling/evaporation/condensation). He has published/co-authored 33 SCI/EI journal papers (being first/corresponding authors of 18 papers, as of March 2022), 2 books/chapters, and served as editors and reviewers for numerous academic journals. He has also been granted International Postdoctoral Exchange Fellowship Program, and awarded Xu Teli Scholarship (Beijing Institute of Technology), Outstanding Doctoral Thesis (Tsinghua University), and Wu Zhonghua Outstanding Graduate Student (Chinese Society of Engineering Thermophysics).   
 [[TOC](#table-of-contents)]  
 
 ### **Table of Contents**
