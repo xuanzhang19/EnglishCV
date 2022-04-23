@@ -1,4 +1,4 @@
-![Profile](https://github.com/xuanzhang19/EnglishCV/raw/master/img/Xuan_ZHANG.jpg)  
+![Profile](https://s1.ax1x.com/2022/04/23/LWJakV.jpg)　　　　![BIT_logo](https://s1.ax1x.com/2022/04/23/LWYObR.jpg)  
 　　[[English](https://cv.xuanzhang.online)]　　[[中文](https://cv-chs.xuanzhang.online)]  
 
 Dr. **Xuan ZHANG（张旋）** [[CV](https://www.jianguoyun.com/p/Db0-FH8Qpsj_Bxi-64gD)]  
