@@ -165,7 +165,7 @@ Email: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotm
 
 ### **Awards and Honors**
 1. **Star Reviewer for Physics of Fluids** (2020, 2021), *AIP Publishing*.
-2. **Wu Zhonghua Award for Outstanding Postgraduate Student** (2019, 10 students/year over China), *Chinese Society of Engineering Thermophysics*.
+2. **Wu Zhonghua Award for Outstanding Graduate Student** (2019, 10 students/year over China), *Chinese Society of Engineering Thermophysics*.
 3. **Outstanding Doctoral Thesis Award** (2019), *Tsinghua University*.
 4. **International Postdoctoral Exchange Fellowship Program** (2019, 120 doctors/year over China), *Ministry of Human Resources and Social Security of P.R. China & The Office of China Postdoctoral Council*.
 5. **Postdoctoral Supporting Program** (2019), *Tsinghua University*.
