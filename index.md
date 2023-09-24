@@ -6,7 +6,7 @@ Department of Energy and Power Engineering,
 School of Mechanical Engineering, Beijing Institute of Technology  
 **Address**: No. 5, Zhongguancun South Street, Haidian District, Beijing 100081, China  
 **Tel**: +86-15201619077  
-**Email**: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com)   
+**Email**: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [zhangxuan19@tsinghua.org.cn](mailto:zhangxuan19@tsinghua.org.cn)  
 
 ### ***Biography***  
 &emsp;Dr. **Xuan ZHANG** is an Associate Professor in the Department of Energy and Power Engineering, School of Mechanical Engineering, Beijing Institute of Technology (BIT). He received his B.S. and Ph.D. degrees from Beijing Institute of Technology and Tsinghua University (THU) in 2014 and 2019, and worked at Tsinghua University and Nanyang Technological University (NTU) as a Postdoctoral Researcher before joining Beijing Institute of Technology in 2022 as a member of [**Frost Lab**](https://www.x-mol.com/groups/FrostLab).   
