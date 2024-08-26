@@ -17,5 +17,5 @@ School of Mechanical Engineering, Beijing Institute of Technology
 
 &emsp;See more via **[[Official Homepage](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/zlydwgcyjs/fgjzc10/8a4feae1bc944c2eb6d859ead210573c.htm)]**  **[[Pure Profile](https://pure.bit.edu.cn/en/persons/xuan-zhang)]**  **[[ORCID](https://orcid.org/0000-0002-4999-7361)]**  **[[ORCID](https://orcid.org/0000-0002-4999-7361)]**  **[[Google Scholar](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]**  **[[Web of Science](https://publons.com/researcher/AAB-1249-2020)]** **[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57142969300)]**  **[[ResearchGate](https://www.researchgate.net/profile/Xuan-Zhang-25)]**  **[[CV](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]**  
 
-<p align="center"> <b> <i> Thanks for your visiting ! </i> </b> </p>  
+<p align="right"> <b> <i> Thanks for your visiting ! </i> </b> </p>  
 <p align="right"> Updated on 2024-09-01 </p>  
